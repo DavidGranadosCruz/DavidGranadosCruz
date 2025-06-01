@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy David — Desarrollador Full-Stack & Emprendedor Digital
+# 👋 ¡Hola! Soy David — Desarrollador & Emprendedor Digital
 
 ### 🧠 Construyendo el futuro con software inteligente y soluciones reales para empresas.
 
