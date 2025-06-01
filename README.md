@@ -1,8 +1,8 @@
-# 👋 ¡Hola! Soy David — Desarrollador & Emprendedor Digital
+# 👋 ¡Hola! Soy David — Desarrollador
 
 ### 🧠 Construyendo el futuro con software inteligente y soluciones reales para empresas.
 
-Soy un joven desarrollador de Córdoba (España) apasionado por la tecnología, la automatización y la inteligencia artificial. Me dedico a crear soluciones personalizadas que mejoran procesos empresariales, combinando diseño funcional, rendimiento y una visión estratégica para impulsar el crecimiento de pymes.
+Soy un joven desarrollador de Córdoba (España) apasionado por la tecnología, la automatización y la inteligencia artificial. Me gusta crear soluciones personalizadas que mejoran procesos empresariales, combinando diseño funcional, rendimiento y una visión estratégica para impulsar su crecimiento.
 
 
 ## 🚀 Proyectos Destacados
@@ -10,7 +10,7 @@ Soy un joven desarrollador de Córdoba (España) apasionado por la tecnología, 
 ### 🧩 **Plataforma Web Modular para Empresas**
 Desarrollo de una app web pensada para empresas con fichaje geolocalizado, gestión de tickets, roles de usuario y funcionalidades personalizables. Perfecta para digitalizar pequeñas y medianas empresas.
 
-### 🤖 **Chatbot Inteligente para WhatsApp (Graferma)**
+### 🤖 **Chatbot Inteligente para WhatsApp **
 Implementación local de un asistente que responde por WhatsApp a mensajes, audios y llamadas, conectado a una base de datos con productos y derivación automática a humanos cuando es necesario.
 
 ### 🎨 **Generador de Presupuestos Multisector**
