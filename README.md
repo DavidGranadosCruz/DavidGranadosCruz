@@ -10,8 +10,8 @@ Soy un joven desarrollador de Córdoba (España) apasionado por la tecnología, 
 ### 🧩 **Plataforma Web Modular para Empresas**
 Desarrollo de una app web pensada para empresas con fichaje geolocalizado, gestión de tickets, roles de usuario y funcionalidades personalizables. Perfecta para digitalizar pequeñas y medianas empresas.
 
-### 🤖 **Chatbot Inteligente para WhatsApp **
-Implementación local de un asistente que responde por WhatsApp a mensajes, audios y llamadas, conectado a una base de datos con productos y derivación automática a humanos cuando es necesario.
+### 🤖 **IA sobre base de datos de empresa **
+De preguntas humanas como: ¿Quien es mi mejor cliente? o ¿Me puedes hacer un resumen del cliente... en el ejercicio actual? A resultados reales sacados directamente de su base de datos.
 
 ### 🎨 **Generador de Presupuestos Multisector**
 Aplicación web para calcular presupuestos en pintura, madera, construcción, electricidad y mecánica. Simple, precisa y personalizable.
